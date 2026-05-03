@@ -3,7 +3,7 @@ export function Masthead() {
     <header className="masthead">
       <div className="masthead-inner">
         <div className="masthead-left">
-          <span className="masthead-brand">EDANTE</span>
+          <span className="masthead-brand">HIREDSPENDER</span>
           <span className="hide-sm" style={{ color: "var(--ink-faint)" }}>
             /
           </span>

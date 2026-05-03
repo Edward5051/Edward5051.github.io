@@ -30,8 +30,8 @@ export function CurrentlyBuilding() {
         >
           <div className="now-role">Founding Front End Engineer</div>
           <p className="now-desc">
-            A decentralized blockchain platform bridging real-world assets —
-            real estate, vehicles, luxury items — with on-chain ownership
+            A decentralized blockchain platform bridging real-world assets
+            real estate, vehicles, luxury items with on-chain ownership
             through tokenization, fractional crowdfunding, and live raffle
             auctions.
           </p>

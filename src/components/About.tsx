@@ -18,8 +18,8 @@ export function About() {
           className={`about-prose reveal ${prose.visible ? "visible" : ""}`}
         >
           <p>
-            I'm a frontend developer who came in through the side door —
-            graphics design and typesetting first, then code, then hardware.{" "}
+            I'm a frontend developer who came in through the side door
+            graphics design and typesetting first, then hardware, then code.{" "}
             <span className="accent">Multi-disciplinary</span> isn't a buzzword
             on my CV; it's how I actually think.
           </p>
@@ -31,7 +31,7 @@ export function About() {
           <p className="small">
             Computer Science B.Tech, Federal University of Technology Minna
             (2018–2024). Board member at ToonStack Inc. Open to full-time and
-            contract work — Web3, design-led startups, and product teams that
+            contract work including Web3, design-led startups, and product teams that
             take craft seriously.
           </p>
         </div>

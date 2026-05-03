@@ -6,7 +6,7 @@
 export const PROFILE = {
   name: "Emmanuel Danladi",
   role: "React Frontend Developer",
-  location: "Kaduna, Nigeria",
+  location: "Abuja, Nigeria",
   timeZone: "Africa/Lagos", // WAT, UTC+1
   status: "Building BIDA",
   email: "edante12345678@gmail.com",
@@ -16,6 +16,8 @@ export const PROFILE = {
   linkedinHandle: "/in/emmanuel-danladi",
   github: "https://github.com/Edward5051",
   githubHandle: "@Edward5051",
+  X: "https://x.com/HiredSpender",
+  Xhandle: "@HiredSpender",
   bidaUrl: "https://bida.finance",
   startedCodingYear: 2020,
 } as const;

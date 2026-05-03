@@ -18,7 +18,7 @@ export function Footer() {
       <div className="wrap">
         <div className="footer-inner">
           <span>© {new Date().getFullYear()} Emmanuel Danladi</span>
-          <span>Made in Kaduna, NG</span>
+          <span>Made in Abuja, NG</span>
           <span>Last updated: {lastUpdated}</span>
         </div>
       </div>

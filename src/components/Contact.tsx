@@ -56,6 +56,17 @@ export function Contact() {
             {PROFILE.githubHandle}
           </a>
         </div>
+        <div>
+          <div className="contact-col-label mono">X</div>
+          <a
+            className="contact-link"
+            href={PROFILE.X}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {PROFILE.Xhandle}
+          </a>
+        </div>
       </div>
     </section>
   );

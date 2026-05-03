@@ -57,7 +57,7 @@ export function Hero() {
           }`}
         >
           <p className="hero-tagline-text">
-            A founding <span className="accent">Front End Engineer</span>{" "}
+            A <span className="accent">Front End Engineer</span>{" "}
             building Web3 interfaces, with a side practice in graphics design,
             typesetting, and custom PC builds.
           </p>
